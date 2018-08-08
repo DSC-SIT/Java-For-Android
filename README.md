@@ -1,3 +1,5 @@
 # Java-Class
 Basic Java Codes (Learning Session)
-//To be added
+
+
+The codes can be accessed opening th files .java and copy pasting it onto your online compilers.
